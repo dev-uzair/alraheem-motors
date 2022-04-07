@@ -1,6 +1,12 @@
 # Al-Raheem Motors
 Al-Raheem Car Rental is a React & Firebase based application for storing the record of rental cars customers and as a name suggest this application is for car  rental shop in Burewala.
 
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/47333917/162198646-78d05d5c-925f-4e01-91d4-ab083fa6ea94.png" alt="cover" />
+</p>
+<br>
+
 ## About the App
   - This Web App is created for specific use cases of al-raheem motors
   - The main functions that app includes are -
