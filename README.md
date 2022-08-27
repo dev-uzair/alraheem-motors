@@ -1,5 +1,5 @@
 # Al-Raheem Motors
-Al-Raheem Car Rental is a React & Firebase based application for storing the record of rental cars customers and as a name suggest this application is for car  rental shop in Burewala. Check prototype on [ Behance ](https://www.behance.net/gallery/141178675/Al-Raheem-Motors) and this web app is live on [ Al-Raheem Motors ](https://www.alraheemmotors.com/)
+This is a React & Firebase based application for storing the record of rental car customers and this application is a paid project and specifically build for a local shop in Burewala city. Check prototype on [ Behance ](https://www.behance.net/gallery/141178675/Al-Raheem-Motors) and this is live on [ Al-Raheem Motors ](https://www.alraheemmotors.com/).
 
 
 <p align="center">
@@ -8,11 +8,15 @@ Al-Raheem Car Rental is a React & Firebase based application for storing the rec
 <br>
 
 ## About the App
-  - This Web App is created for specific use cases of al-raheem motors
-  - The main functions that app includes are -
+  - The main features in this application are :-
     1. Responsive Home Page Design
-    2. Store Customer Information and generate the printable security form 
-    3. Search for old customers
+    2. Store Customer Information and Generate/Print PDF Form
+    3. Search by CNIC No. or Name of the Customer
+    4. Don't Need to Put All information of a customer everytime
+    
+  - What I Learn from this Application :-
+    1. How to use React with Firebase
+    2. How Context-API Works
 
 ## In action👀
 <br>
