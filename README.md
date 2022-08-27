@@ -11,12 +11,13 @@ This is a React & Firebase based application for storing the record of rental ca
   - The main features in this application are :-
     1. Responsive Home Page Design
     2. Store Customer Information and Generate/Print PDF Form
-    3. Search by CNIC No. or Name of the Customer
+    3. Search Customers by CNIC No./Name or Date
     4. Don't Need to Put All information of a customer everytime
     
   - What I Learn from this Application :-
     1. How to use React with Firebase
     2. How Context-API Works
+    3. How to use SASS with React
 
 ## In action👀
 <br>
